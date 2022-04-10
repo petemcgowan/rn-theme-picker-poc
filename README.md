@@ -1,0 +1,1 @@
+This is simply to change the theme colors and manage this process. I'm going to connect the color picker to this, to change the actual color . This might happen in the other POC to keep this "theme management" concept clean in this POC. It's very basic.
